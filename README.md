@@ -27,6 +27,20 @@ the backgroud color is `#ffffff` for light mode and `#000000` for dark mode.  �
 
 这样做可以包含B站网址，[点击这里](https://m.bilibili.com)
 
+无序号表单：可以用减号、加号、乘号\
+- 任务1
++ 任务2
+* 任务3
+
+有序号表单：  
+1. 任务1
+2. 任务2
+3. 任务3
+
+子列表：  
+1. first list item
+   - first nested list item
+     - second nested list item
 
 
 
